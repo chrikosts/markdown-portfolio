@@ -1,1 +1,1 @@
-![Image of me] (https://octodex.github.com/collabocats/)
+![Image] (https://octodex.github.com/images/yaktocat.png)
