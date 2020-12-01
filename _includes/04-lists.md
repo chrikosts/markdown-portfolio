@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Athleticism
+  * Football
+  * Basketball
+* Music
+  * Hip Hop
+  * Jazz
+  * Modern Classic
+* Travelling
+* Learning
